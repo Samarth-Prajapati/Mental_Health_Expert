@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-groq
+textblob
+scikit-learn
+numpy
+pandas
+python-dotenv
+googletrans
+transliterate
